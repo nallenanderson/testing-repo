@@ -38,4 +38,4 @@ const cart = [
 
 // Part One: How much is your total cost assuming price is currently in cents (100 = $1 USD)?
 // Part Two: How can you identify any duplicate in the cart? After identifying, rerun Part One.
-// What if flat-shipping rates were provided if more than 5 items were purchased?
+// Part Three: What if flat-shipping rates were provided if more than 5 items were purchased?
